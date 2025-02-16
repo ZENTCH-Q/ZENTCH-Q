@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, You can call me ZENT-CH</h1>
-<h3 align="center">a self-employed developer specializing in Python projects, trading tools, web applications and many more...</h3>
+<h3 align="center">a developer specializing in Python projects, trading tools, web applications and many more...</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
